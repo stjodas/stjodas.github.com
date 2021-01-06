@@ -177,6 +177,8 @@ body {
 @media (max-widht: 700px) {
     body {
         grid-template-columns: 1fr;
+        background: #faf6ed;
+        color: #222;
     }
     .menu, .grid-section, .copy{
         grid-column: 1;
